@@ -21,6 +21,8 @@ Item[] list3 = new Item[]{ new Item("i1","0123", 500, 0.7f)}; <br>
 Тест 5: <br>
 Item[] list4 = new Item[]{ new Item("i1","0123", 500, 0.7f)}; <br>
 Уплата: 200 денари(недоволно) <br>
+Помошна табела која ја користев за тест случаите: <br>
+![](https://github.com/Marijjaa/SI_2024_lab2_223024/blob/master/every_branch.png)
 ####  Multiple Condition критериум
 Мора да има 4 тестови за if condition-от(TTT, TTF, TFX, FXX) <br>
 //TTT <br>
