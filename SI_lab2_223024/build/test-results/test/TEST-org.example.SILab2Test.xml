@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.SILab2Test" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-05-26T18:13:20" hostname="DESKTOP-7U3F981" time="0.026">
+  <properties/>
+  <testcase name="checkCartMultipleCondition()" classname="org.example.SILab2Test" time="0.02"/>
+  <testcase name="checkCartEveryBranch()" classname="org.example.SILab2Test" time="0.005"/>
+  <system-out><![CDATA[Testing begin
+Testing Multiple Condition - 4 Test Cases
+Testing Every Branch - 5 Test Cases
+Testing end
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
